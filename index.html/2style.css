@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+body{
+  background-image: url(immagini/sfondo.png);
+  background-position: center;
+  background-size: 1100px 700px;
+  background-repeat: no-repeat;
+  margin: 30px;
+  display: block;
+  padding-bottom: 100px;
+  margin-bottom: 30px;
+  text-align: center;
+  }
+
+#container{
+  width: 700px;
+  height: 500px;
+  margin: auto;
+  border-color: inherit;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.5);
+  padding: 30px;
+  padding-bottom: 30px;
+}
+
+.logo{
+ width: 150px;
+ margin: 0px;
+}
+
+h3{
+  font-family: sans-serif;
+  color: #00ff00;
+  margin: 0;
+  text-align: center;
+}
+
+button{
+  font-size: 8px;
+}
+
+
+#rettangolo{
+ background-color: #00ff00;
+ padding: 5px;
+ margin-right: 50px;
+ margin-left: 50px;
+}
+
+.text{
+  color: white;
+  font-family: Arial;
+  margin-left: 5px;
+}
+
+nav{
+  padding-left: 50px;
+}
+
+input{
+  width: 9px;
+  height: 9px;
+}
+
+small{
+  color: white;
+  font-family: Arial;
+  font-size: 10px;
+}
+
+.rettangolo{
+	width:230px;
+	height:20px;
+	background:#F4A460;
+  border-radius:5px;
+}
+
+div.starred{
+  width: 320px;
+  height: 20px;
+  background-color: #50FF00;
+  border-radius: 5px;
+}
+
+.rectangle{
+  width: 95px;
+  height: 20px;
+  border-radius: 4px;
+  background-color: #B44444;
+}
